@@ -79,13 +79,21 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Docs",
                 to: "/docs/intro",
+              },
+              {
+                label: "Host your bot",
+                to: "/docs/category/hosting-the-bot",
+              },
+              {
+                label: "How to use commands",
+                to: "/docs/category/command-guide",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Friends finance bot. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://pavece.com">Pavece</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
