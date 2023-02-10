@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Friends finance discord bot documentation",
   tagline: "Learn how to config, host and use friends finance discord bot",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.svg",
 
   // Set the production url of your site here
   url: "http://localhost:3000",
@@ -63,7 +63,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Initial configuration",
+            label: "Documentation",
           },
           {
             href: "https://github.com/pavece/friends-finance-discord-bot",
@@ -92,8 +92,21 @@ const config = {
               },
             ],
           },
+          {
+            title: "GitHub",
+            items: [
+              {
+                label: "Bot",
+                to: "/",
+              },
+              {
+                label: "Documentation",
+                to: "/",
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://pavece.com">Pavece</a>. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://pavece.com">Pavece</a>`,
       },
       prism: {
         theme: lightCodeTheme,
