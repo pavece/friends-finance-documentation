@@ -3,16 +3,10 @@
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+  .hero-banner {
+    display: none;
   }
 }
 
@@ -20,4 +14,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.redirects-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  width: auto;
+  flex-wrap: wrap;
+  padding: 50px 20px;
 }

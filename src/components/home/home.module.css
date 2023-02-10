@@ -1,0 +1,8 @@
+.docCard {
+  padding: 3vh 3vw;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.158);
+  background-color: var(--secondary-highlight-color);
+  text-align: left;
+  max-width: 600px;
+}
