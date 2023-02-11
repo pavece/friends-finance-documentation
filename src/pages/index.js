@@ -40,7 +40,7 @@ function HomepageHeader() {
         </div>
         <div className={styles['hero-banner']}>
           <img
-            src="/img/ff_banner.png"
+            src="/img/ff_banner_doc.png"
             alt=""
             style={{ width: "calc(300px + 10vw)", borderRadius: "10px" }}
           />

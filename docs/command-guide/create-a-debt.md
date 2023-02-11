@@ -16,4 +16,4 @@ When you create this debt the bot automatically saves it to the database. This d
 
 **You will get a similar response when using this command:**
 
-![test](./img/New_debt_ss.png)
+![Create debt image](./img/New_debt_ss.png)

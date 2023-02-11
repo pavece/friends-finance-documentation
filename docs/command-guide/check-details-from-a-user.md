@@ -16,4 +16,4 @@ You can access a specific debt using the ID in order to fill or delete it as sho
 
 **You will get a similar response when using this command:**
 
-![test](./img/userdetails_ss.png)
+![User derails image](./img/userdetails_ss.png)

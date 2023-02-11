@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Chose a hosting option
+# Choose a hosting option
 
 Some places where you can host your bot.
 

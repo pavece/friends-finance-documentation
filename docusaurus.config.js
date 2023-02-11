@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/ff_banner.png",
+      image: "img/ff_banner_doc.png",
       navbar: {
         title: "Friends finance bot",
         logo: {

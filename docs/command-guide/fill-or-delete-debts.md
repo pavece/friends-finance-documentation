@@ -21,4 +21,4 @@ Only the debt author and server admins can delete and fill debts.
 
 **You will get a similar response when using this command:**
 
-![test](./img/debt_detail_ss.png)
+![Debt details image](./img/debt_detail_ss.png)
