@@ -13,3 +13,7 @@ This command allows you to create a new debt against other user.
 - **concept**: You can provide some information about the debt.
 
 When you create this debt the bot automatically saves it to the database. This debt can be accessed as shown [here](/docs/command-guide/fill-or-delete-debts).
+
+**You will get a similar response when using this command:**
+
+![test](./img/New_debt_ss.png)

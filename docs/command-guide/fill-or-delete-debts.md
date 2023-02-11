@@ -18,3 +18,7 @@ When the message appears you will see the fill and delete buttons.
 :::danger Keep in mind
 Only the debt author and server admins can delete and fill debts.
 :::
+
+**You will get a similar response when using this command:**
+
+![test](./img/debt_detail_ss.png)
