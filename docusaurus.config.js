@@ -97,11 +97,11 @@ const config = {
             items: [
               {
                 label: "Bot",
-                to: "/",
+                to: "https://github.com/pavece/friends-finance-discord-bot",
               },
               {
                 label: "Documentation",
-                to: "/",
+                to: "https://github.com/pavece/friends-finance-documentation",
               },
             ],
           },
