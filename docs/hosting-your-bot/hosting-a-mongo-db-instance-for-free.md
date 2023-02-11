@@ -8,7 +8,7 @@ The bot needs a mongo DB database in order to work. You can host a mongo DB inst
 
 ## Mongo DB Atlas
 
-[Atlas](https://www.mongodb.com/atlas) is a developer data platform that allows us to get free mongo DB instances with up to 512 Mb of data storage. Witch is surprisingly good.
+[Atlas](https://www.mongodb.com/atlas) is a developer data platform that allows us to get free mongo DB instances with up to 512 Mb of data storage. Which is surprisingly good.
 
 ## Steps
 
